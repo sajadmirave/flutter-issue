@@ -21,3 +21,14 @@ flutter doctor --android-licenses
 ```
 
 ---
+if you see this error when you use:
+
+flutter doctor --android-licenses
+
+Error: The proxy server URL extracted from HTTP_PROXY or HTTPS_PROXY environment variable could not be parsed. Either specify the correct URL or unset the environment variable.
+
+solution: Inactive your vpn and use shecan:
+
+https://shecan.ir/
+
+---
